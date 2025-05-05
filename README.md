@@ -1,2 +1,2 @@
 # patatap
-Basic program which makes use of javascript and paper.js as well as howler.js, on a very basic level
+Basic fun project which makes use of javascript libraries like paper.js and howler.js, on a very basic level
